@@ -1,0 +1,3 @@
+- cuda-12.1
+- cudnn-8.9.7
+- tensorrt-10.0
